@@ -1,0 +1,524 @@
+{
+    "MWM": [
+        {
+            "name": "TEST #1",
+            "description": "TESTING WEBSITE",
+            "image": "https://mwm.mypinata.cloud/ipfs/QmPELX2T22DAPou3dCTH7bzUQn4QSFPjjYDBf8ZVKGiXSe/1.png",
+            "dna": "7c3427c35bf47ad1af0904cf2e97508515c38162",
+            "edition": 1,
+            "date": 1649388089975,
+            "link": "https://opensea.io/assets/0x9c7b9db6a10667469aa13a4c669fbf07280df642/1",
+            "attributes": [
+                {
+                    "trait_type": "BACKGROUND",
+                    "value": "Grey"
+                },
+                {
+                    "trait_type": "TATOO",
+                    "value": "Green Fire Patience"
+                },
+                {
+                    "trait_type": "BEADS",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "NECKLACE",
+                    "value": "Gold Padlock"
+                },
+                {
+                    "trait_type": "NOSE & PIERCING",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "MASK",
+                    "value": "Green Dragonfly"
+                },
+                {
+                    "trait_type": "HAIR & HAT",
+                    "value": "Red Braids"
+                },
+                {
+                    "trait_type": "CIGARETTE",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "WEAPON",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "TEXT",
+                    "value": "TESTNETS"
+                }
+            ],
+            "compiler": "ONVARTGALLERY"
+        },
+        {
+            "name": "TEST #2",
+            "description": "TESTING WEBSITE",
+            "image": "https://mwm.mypinata.cloud/ipfs/QmPELX2T22DAPou3dCTH7bzUQn4QSFPjjYDBf8ZVKGiXSe/2.png",
+            "dna": "601d37250d351d365861a7191afb03adbc005541",
+            "edition": 2,
+            "date": 1649388090815,
+            "link": "https://opensea.io/assets/0x9c7b9db6a10667469aa13a4c669fbf07280df642/2",
+            "attributes": [
+                {
+                    "trait_type": "BACKGROUND",
+                    "value": "Grey"
+                },
+                {
+                    "trait_type": "TATOO",
+                    "value": "King Cobra with Lightning"
+                },
+                {
+                    "trait_type": "BEADS",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "NECKLACE",
+                    "value": "Glossy Gold Beads with Dollar Coin"
+                },
+                {
+                    "trait_type": "NOSE & PIERCING",
+                    "value": "Green Leaves"
+                },
+                {
+                    "trait_type": "MASK",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "HAIR & HAT",
+                    "value": "Red MWM with Pigtails"
+                },
+                {
+                    "trait_type": "CIGARETTE",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "WEAPON",
+                    "value": "Yellow Ulfberht"
+                },
+                {
+                    "trait_type": "TEXT",
+                    "value": "TESTNETS"
+                }
+            ],
+            "compiler": "ONVARTGALLERY"
+        },
+        {
+            "name": "TEST #3",
+            "description": "TESTING WEBSITE",
+            "image": "https://mwm.mypinata.cloud/ipfs/QmPELX2T22DAPou3dCTH7bzUQn4QSFPjjYDBf8ZVKGiXSe/3.png",
+            "dna": "1ae9fb9f95d556a81eb87ac0c7d1589ebbe715b2",
+            "edition": 3,
+            "date": 1649388091676,
+            "link": "https://opensea.io/assets/0x9c7b9db6a10667469aa13a4c669fbf07280df642/3",
+            "attributes": [
+                {
+                    "trait_type": "BACKGROUND",
+                    "value": "White Grey"
+                },
+                {
+                    "trait_type": "TATOO",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "BEADS",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "NECKLACE",
+                    "value": "Green and Orange Pearl Necklace"
+                },
+                {
+                    "trait_type": "NOSE & PIERCING",
+                    "value": "Blue Hairy Nose"
+                },
+                {
+                    "trait_type": "MASK",
+                    "value": "Red Half Mask"
+                },
+                {
+                    "trait_type": "HAIR & HAT",
+                    "value": "Wavy Purple Crown"
+                },
+                {
+                    "trait_type": "CIGARETTE",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "WEAPON",
+                    "value": "Green Saw"
+                },
+                {
+                    "trait_type": "TEXT",
+                    "value": "TESTNETS"
+                }
+            ],
+            "compiler": "ONVARTGALLERY"
+        },
+        {
+            "name": "TEST #4",
+            "description": "TESTING WEBSITE",
+            "image": "https://mwm.mypinata.cloud/ipfs/QmPELX2T22DAPou3dCTH7bzUQn4QSFPjjYDBf8ZVKGiXSe/4.png",
+            "dna": "46e19dd8607094ad463e8c81775aefadb16a8549",
+            "edition": 4,
+            "date": 1649388092268,
+            "link": "https://opensea.io/assets/0x9c7b9db6a10667469aa13a4c669fbf07280df642/4",
+            "attributes": [
+                {
+                    "trait_type": "BACKGROUND",
+                    "value": "Peace Pink"
+                },
+                {
+                    "trait_type": "TATOO",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "BEADS",
+                    "value": "Green Tusk"
+                },
+                {
+                    "trait_type": "NECKLACE",
+                    "value": "Dark Rhombus"
+                },
+                {
+                    "trait_type": "NOSE & PIERCING",
+                    "value": "Red Hairy Nose"
+                },
+                {
+                    "trait_type": "MASK",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "HAIR & HAT",
+                    "value": "Khaki Fedora with Ape"
+                },
+                {
+                    "trait_type": "CIGARETTE",
+                    "value": "Blue Kunai"
+                },
+                {
+                    "trait_type": "WEAPON",
+                    "value": "Green Stick"
+                },
+                {
+                    "trait_type": "TEXT",
+                    "value": "TESTNETS"
+                }
+            ],
+            "compiler": "ONVARTGALLERY"
+        },
+        {
+            "name": "TEST #5",
+            "description": "TESTING WEBSITE",
+            "image": "https://mwm.mypinata.cloud/ipfs/QmPELX2T22DAPou3dCTH7bzUQn4QSFPjjYDBf8ZVKGiXSe/5.png",
+            "dna": "cdf8644d166415de797192e3c48956905e839fbf",
+            "edition": 5,
+            "date": 1649388093100,
+            "link": "https://opensea.io/assets/0x9c7b9db6a10667469aa13a4c669fbf07280df642/5",
+            "attributes": [
+                {
+                    "trait_type": "BACKGROUND",
+                    "value": "Orange"
+                },
+                {
+                    "trait_type": "TATOO",
+                    "value": "Red Centipedes with Olive Pattern"
+                },
+                {
+                    "trait_type": "BEADS",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "NECKLACE",
+                    "value": "Glossy Gold Beads with Dollar Coin"
+                },
+                {
+                    "trait_type": "NOSE & PIERCING",
+                    "value": "Diamond"
+                },
+                {
+                    "trait_type": "MASK",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "HAIR & HAT",
+                    "value": "Crown"
+                },
+                {
+                    "trait_type": "CIGARETTE",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "WEAPON",
+                    "value": "Blue Shard"
+                },
+                {
+                    "trait_type": "TEXT",
+                    "value": "TESTNETS"
+                }
+            ],
+            "compiler": "ONVARTGALLERY"
+        },
+        {
+            "name": "TEST #6",
+            "description": "TESTING WEBSITE",
+            "image": "https://mwm.mypinata.cloud/ipfs/QmPELX2T22DAPou3dCTH7bzUQn4QSFPjjYDBf8ZVKGiXSe/6.png",
+            "dna": "e4f839fc643313120e884b5ad39eebc088b8ab71",
+            "edition": 6,
+            "date": 1649388094681,
+            "link": "https://opensea.io/assets/0x9c7b9db6a10667469aa13a4c669fbf07280df642/6",
+            "attributes": [
+                {
+                    "trait_type": "BACKGROUND",
+                    "value": "Red Blood"
+                },
+                {
+                    "trait_type": "TATOO",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "BEADS",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "NECKLACE",
+                    "value": "Army Flowy"
+                },
+                {
+                    "trait_type": "NOSE & PIERCING",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "MASK",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "HAIR & HAT",
+                    "value": "Blue Pirates Hat"
+                },
+                {
+                    "trait_type": "CIGARETTE",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "WEAPON",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "TEXT",
+                    "value": "TESTNETS"
+                }
+            ],
+            "compiler": "ONVARTGALLERY"
+        },
+        {
+            "name": "TEST #7",
+            "description": "TESTING WEBSITE",
+            "image": "https://mwm.mypinata.cloud/ipfs/QmPELX2T22DAPou3dCTH7bzUQn4QSFPjjYDBf8ZVKGiXSe/7.png",
+            "dna": "b4de637a649e82168c946ec1f3f682ef77c8c86c",
+            "edition": 7,
+            "date": 1649388095278,
+            "link": "https://opensea.io/assets/0x9c7b9db6a10667469aa13a4c669fbf07280df642/7",
+            "attributes": [
+                {
+                    "trait_type": "BACKGROUND",
+                    "value": "Grey"
+                },
+                {
+                    "trait_type": "TATOO",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "BEADS",
+                    "value": "Yellow Coin"
+                },
+                {
+                    "trait_type": "NECKLACE",
+                    "value": "Yellow Mummy"
+                },
+                {
+                    "trait_type": "NOSE & PIERCING",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "MASK",
+                    "value": "Red Half Mask with Cross"
+                },
+                {
+                    "trait_type": "HAIR & HAT",
+                    "value": "Punky Mix Orange"
+                },
+                {
+                    "trait_type": "CIGARETTE",
+                    "value": "Skull Green Vape"
+                },
+                {
+                    "trait_type": "WEAPON",
+                    "value": "Purple Shard"
+                },
+                {
+                    "trait_type": "TEXT",
+                    "value": "TESTNETS"
+                }
+            ],
+            "compiler": "ONVARTGALLERY"
+        },
+        {
+            "name": "TEST #8",
+            "description": "TESTING WEBSITE",
+            "image": "https://mwm.mypinata.cloud/ipfs/QmPELX2T22DAPou3dCTH7bzUQn4QSFPjjYDBf8ZVKGiXSe/8.png",
+            "dna": "c030e4578fb82a7249a695ae6be10a0fa87796cb",
+            "edition": 8,
+            "date": 1649388096132,
+            "link": "https://opensea.io/assets/0x9c7b9db6a10667469aa13a4c669fbf07280df642/8",
+            "attributes": [
+                {
+                    "trait_type": "BACKGROUND",
+                    "value": "Baby Cream"
+                },
+                {
+                    "trait_type": "TATOO",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "BEADS",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "NECKLACE",
+                    "value": "Army Rhombus"
+                },
+                {
+                    "trait_type": "NOSE & PIERCING",
+                    "value": "Yellow Nose with Pink Pattern"
+                },
+                {
+                    "trait_type": "MASK",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "HAIR & HAT",
+                    "value": "Monster with Chain"
+                },
+                {
+                    "trait_type": "CIGARETTE",
+                    "value": "Olive Kunai"
+                },
+                {
+                    "trait_type": "WEAPON",
+                    "value": "Green Dollars Machine"
+                },
+                {
+                    "trait_type": "TEXT",
+                    "value": "TESTNETS"
+                }
+            ],
+            "compiler": "ONVARTGALLERY"
+        },
+        {
+            "name": "TEST #9",
+            "description": "TESTING WEBSITE",
+            "image": "https://mwm.mypinata.cloud/ipfs/QmPELX2T22DAPou3dCTH7bzUQn4QSFPjjYDBf8ZVKGiXSe/9.png",
+            "dna": "0265b52657bb2b6f15592c7f4e8a0d4ef149c960",
+            "edition": 9,
+            "date": 1649388096963,
+            "link": "https://opensea.io/assets/0x9c7b9db6a10667469aa13a4c669fbf07280df642/9",
+            "attributes": [
+                {
+                    "trait_type": "BACKGROUND",
+                    "value": "Peace Pink"
+                },
+                {
+                    "trait_type": "TATOO",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "BEADS",
+                    "value": "Choco Gold Devil"
+                },
+                {
+                    "trait_type": "NECKLACE",
+                    "value": "Green Sunflower with Purple Point"
+                },
+                {
+                    "trait_type": "NOSE & PIERCING",
+                    "value": "Red Orange Sharpnose with Wire"
+                },
+                {
+                    "trait_type": "MASK",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "HAIR & HAT",
+                    "value": "Little Crown"
+                },
+                {
+                    "trait_type": "CIGARETTE",
+                    "value": "Green Thick Cigar Holder"
+                },
+                {
+                    "trait_type": "WEAPON",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "TEXT",
+                    "value": "TESTNETS"
+                }
+            ],
+            "compiler": "ONVARTGALLERY"
+        },
+        {
+            "name": "TEST #10",
+            "description": "TESTING WEBSITE",
+            "image": "https://mwm.mypinata.cloud/ipfs/QmPELX2T22DAPou3dCTH7bzUQn4QSFPjjYDBf8ZVKGiXSe/10.png",
+            "dna": "e2ab6fbba241d650d09f945e8a9401735c3c1ba6",
+            "edition": 10,
+            "date": 1649388097551,
+            "link": "https://opensea.io/assets/0x9c7b9db6a10667469aa13a4c669fbf07280df642/10",
+            "attributes": [
+                {
+                    "trait_type": "BACKGROUND",
+                    "value": "Baby Light Blue"
+                },
+                {
+                    "trait_type": "TATOO",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "BEADS",
+                    "value": "Blue Coin"
+                },
+                {
+                    "trait_type": "NECKLACE",
+                    "value": "Blue Rhombus"
+                },
+                {
+                    "trait_type": "NOSE & PIERCING",
+                    "value": "White Double Stick"
+                },
+                {
+                    "trait_type": "MASK",
+                    "value": "Blue Dragonfly"
+                },
+                {
+                    "trait_type": "HAIR & HAT",
+                    "value": "Black Cap"
+                },
+                {
+                    "trait_type": "CIGARETTE",
+                    "value": "none"
+                },
+                {
+                    "trait_type": "WEAPON",
+                    "value": "Yellow Sword"
+                },
+                {
+                    "trait_type": "TEXT",
+                    "value": "TESTNETS"
+                }
+            ],
+            "compiler": "ONVARTGALLERY"
+        },
+    ],
+}
